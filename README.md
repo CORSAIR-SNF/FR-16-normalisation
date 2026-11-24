@@ -38,7 +38,7 @@ Proper names. Personal names keep their original form and only their spelling is
 
 Capitalisation and punctuation follow the source. The only change is that a space is added after colons and commas where it is missing.
 
-Errors. Obvious misprints in the source or slips in the transcription are corrected in the normalised column (gtande → grande, la paux → la paix). The original column always keeps the reading of the source. Missing initial letters of decorated capitals (A guerre for La guerre) are not restored.
+Errors. Obvious misprints in the source or slips in the transcription are corrected in the normalised column (gtande → grande, la paux → la paix). The original column always keeps the reading of the source. Missing initial letters of decorated capitals (A guerre for La guerre) are restored.
 
 ## production
 
