@@ -1,0 +1,27 @@
+cff-version: 1.0
+title: CORSAIR-FR-16-normalisation
+type: dataset
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+authors:
+  - family-names: Fleury
+    given-names: Melinda
+    email: melinda.fleury@unige.ch
+    affiliation: University of Geneva
+    orcid: 0009-0001-3428-9039
+  - family-names: Gabay
+    given-names: Simon
+    email: simon.gabay@unige.ch
+    affiliation: University of Geneva
+    orcid: 0000-0001-9094-4475
+
+keywords:
+  - normalisation
+  - french
+  - modern
+  - history
+  - historiography
+date-released: 2026-11-24
+url: 'https://github.com/CORSAIR-SNF/FR-16-normalisation'
+version: 1.0
