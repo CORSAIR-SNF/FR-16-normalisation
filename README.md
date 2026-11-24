@@ -10,7 +10,7 @@ This repository contains line-aligned transcriptions of five early modern French
 
 This repository contains:
 | Author | Year | Title (short) |  NB of lines|
-|--------|------|---------------|-------|--------|
+|--------|------|---------------|-------|
 | Louis Régnier de La Planche  | 1576  | *Histoire de l'estat de France* | 770  |
 | Simon Goulart  | 1578 | *Mémoires de l'Estat de France sous Charles Neufiesme*  | 1147 |
 | Lancelot Voisin de La Popelinière  | 1572 | *La vraye et entiere histoire des troubles et choses memorables*  | ?? |
