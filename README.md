@@ -13,7 +13,7 @@ This repository contains:
 |--------|------|---------------|-------|
 | Louis Régnier de La Planche  | 1576  | *Histoire de l'estat de France* | 770  |
 | Simon Goulart  | 1578 | *Mémoires de l'Estat de France sous Charles Neufiesme*  | 1147 |
-| Lancelot Voisin de La Popelinière  | 1572 | *La vraye et entiere histoire des troubles et choses memorables*  | ?? |
+| Lancelot Voisin de La Popelinière  | 1572 | *La vraye et entiere histoire des troubles et choses memorables*  | 669 |
 | Lancelot Voisin de La Popelinière | 1581  | *L'histoire de France (Advertissemens necessaires)* | 429  |
 | Agrippa d'Aubigné | 1616 | *L'histoire universelle*  | 848 |
 
