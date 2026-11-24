@@ -40,6 +40,10 @@ Capitalisation and punctuation follow the source. The only change is that a spac
 
 Errors. Obvious misprints in the source or slips in the transcription are corrected in the normalised column (gtande → grande, la paux → la paix). The original column always keeps the reading of the source. Missing initial letters of decorated capitals (A guerre for La guerre) are not restored.
 
+## production
+
+A first normalisation was produced with the assistance of a large language model, guided by the FreEMnorm data. It was then reviewed and corrected line by line by the author against the original transcription. Doubtful cases (misprints, uncertain names, ambiguous readings) were flagged during the first pass and checked individually.
+
 ## How to cite
 
 Mélinda Fleury, _CORSAIR-FR-16–normalisation, GitHub, https://github.com/CORSAIR-SNF/FR-16-normalisation
